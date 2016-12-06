@@ -1,2 +1,4 @@
 .DS_Store
 py_rain_env/
+py_rain_venv/
+test_env.py
